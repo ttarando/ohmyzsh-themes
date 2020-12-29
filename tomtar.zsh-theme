@@ -1,3 +1,5 @@
+# Based on few other ohmyzsh themes including awesomepanda, bira and others
+
 local return_status_indicator='%(?:%{$fg[green]%}➜ %{$reset_color%}:%{$fg[red]%}➜ %{$reset_color%})'
 # if using RPTOMPT with exit code
 #local return_code_and_indicator="%(?..%{$fg[red]%}%? ↵%{$reset_color%})"
